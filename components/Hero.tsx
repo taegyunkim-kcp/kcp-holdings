@@ -10,8 +10,13 @@ export default function Hero() {
           <span className="text-accent">AX</span> 시대를 설계하는 그룹
         </h1>
         <p className="mt-6 max-w-xl text-muted text-base md:text-lg">
+<<<<<<< HEAD
           AX 사업·상품 기획, AI 데이터센터 컨설팅·엔지니어링, 스타트업 투자부터
           — 자회사 Smart-E · Smart-X와 함께 에너지·IoT 솔루션까지 하나로 연결합니다.
+=======
+          생활속 IoT Device, 스마트팜, 스마트 팩토리, 데이터센터 에너지까지 — 흩어진 데이터를 하나의
+          네트워크로 모아 실시간으로 분석하고 제어합니다.
+>>>>>>> 022daf46afdae9b81fd239bf8829c49cd068d026
         </p>
         <div className="mt-10 flex gap-4">
           <a
