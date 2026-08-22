@@ -6,11 +6,14 @@ export default function Header() {
           KCP <span className="text-signal">Holdings</span>
         </a>
         <nav className="hidden md:flex items-center gap-8 text-sm text-muted">
-          <a href="#solutions" className="hover:text-text transition-colors">
-            솔루션
-          </a>
           <a href="#about" className="hover:text-text transition-colors">
             회사 소개
+          </a>
+          <a href="#business" className="hover:text-text transition-colors">
+            사업영역
+          </a>
+          <a href="#group" className="hover:text-text transition-colors">
+            그룹사
           </a>
           <a
             href="#contact"

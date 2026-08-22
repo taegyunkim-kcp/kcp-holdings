@@ -23,7 +23,7 @@ const mono = IBM_Plex_Mono({
 export const metadata: Metadata = {
   title: "KCP Holdings | 주식회사 케이씨피홀딩스",
   description:
-    "스마트팜 IoT 제어·모니터링, NFC/RFID 보관함 잠금 시스템, 데이터센터 EMS까지 — 센서부터 제어까지 end-to-end로 개발·공급합니다.",
+    "Knowledge Consulting Platform. AX 사업·상품 기획, AI 데이터센터 구축 컨설팅·엔지니어링, 스타트업 컨설팅·투자. 자회사 Smart-E(환경·에너지), Smart-X(IoT Everything)와 함께 xEMS, 스마트팜·팩토리 IoT, 군 스마트폰 보관함 솔루션을 개발합니다.",
 };
 
 export default function RootLayout({

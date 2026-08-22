@@ -5,20 +5,22 @@ export default function About() {
         <div>
           <p className="eyebrow mb-4">ABOUT US</p>
           <h2 className="font-display font-bold text-3xl md:text-4xl">
-            하드웨어부터 소프트웨어까지,
+            KCP는 Knowledge Consulting
             <br />
-            직접 설계하고 공급합니다
+            Platform의 줄임말입니다
           </h2>
         </div>
         <div className="text-muted leading-relaxed space-y-4">
           <p>
-            케이씨피홀딩스는 센서 하드웨어 설계부터 통신 프로토콜, 실시간 분석 서버,
-            제어·모니터링 인터페이스까지 전 과정을 자체적으로 개발하는 기술 기업입니다.
+            케이씨피홀딩스는 AX(AI Transformation) 시대에 필요한 사업·상품 기획과
+            컨설팅을 중심으로, AI 데이터센터 구축 컨설팅·엔지니어링과 스타트업
+            컨설팅·투자를 함께 진행하는 지주회사입니다.
           </p>
           <p>
-            스마트팜의 센서 노드부터 데이터센터의 에너지 시스템까지, 서로 다른
-            현장이지만 같은 원칙으로 접근합니다 — 데이터를 정확히 모으고, 실시간으로
-            판단하고, 안정적으로 제어한다는 원칙입니다.
+            자회사 Smart-E(환경·에너지), Smart-X(IoT Everything)와 함께 xEMS
+            에너지관리솔루션, 스마트팜·스마트팩토리 IoT, 군 스마트폰 보관함
+            솔루션까지 — 지식(컨설팅)과 실행(엔지니어링)을 하나의 그룹으로
+            연결합니다.
           </p>
         </div>
       </div>

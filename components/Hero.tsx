@@ -3,22 +3,22 @@ export default function Hero() {
     <section id="top" className="relative overflow-hidden pt-40 pb-28 bg-grid-fade">
       <NodeNetwork />
       <div className="relative mx-auto max-w-6xl px-6">
-        <p className="eyebrow mb-5">SENSOR TO SYSTEM</p>
+        <p className="eyebrow mb-5">KNOWLEDGE CONSULTING PLATFORM</p>
         <h1 className="font-display font-bold text-4xl md:text-6xl leading-[1.1] max-w-3xl">
-          센서에서 제어까지,
+          지식에서 시스템까지,
           <br />
-          하나로 연결하는 <span className="text-accent">IoT</span> 솔루션
+          <span className="text-accent">AX</span> 시대를 설계하는 그룹
         </h1>
         <p className="mt-6 max-w-xl text-muted text-base md:text-lg">
-          스마트팜, 출입·보관 관리, 데이터센터 에너지까지 — 흩어진 데이터를 하나의
-          네트워크로 모아 실시간으로 분석하고 제어합니다.
+          AX 사업·상품 기획, AI 데이터센터 컨설팅·엔지니어링, 스타트업 투자부터
+          — 자회사 Smart-E · Smart-X와 함께 에너지·IoT 솔루션까지 하나로 연결합니다.
         </p>
         <div className="mt-10 flex gap-4">
           <a
-            href="#solutions"
+            href="#business"
             className="rounded-md bg-accent px-6 py-3 text-sm font-medium hover:bg-accent/90 transition-colors"
           >
-            솔루션 살펴보기
+            사업영역 살펴보기
           </a>
           <a
             href="#contact"
