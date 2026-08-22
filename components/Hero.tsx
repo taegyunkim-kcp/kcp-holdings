@@ -10,7 +10,7 @@ export default function Hero() {
           하나로 연결하는 <span className="text-accent">IoT</span> 솔루션
         </h1>
         <p className="mt-6 max-w-xl text-muted text-base md:text-lg">
-          스마트팜, 출입·보관 관리, 데이터센터 에너지까지 — 흩어진 데이터를 하나의
+          생활속 IoT Device, 스마트팜, 스마트 팩토리, 데이터센터 에너지까지 — 흩어진 데이터를 하나의
           네트워크로 모아 실시간으로 분석하고 제어합니다.
         </p>
         <div className="mt-10 flex gap-4">
