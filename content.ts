@@ -80,7 +80,7 @@ export const groupCompanies = [
 export const partnerCompanies = [
   {
     code: "그리드위즈",
-    tag: "코스닥 · 에너지 솔루션",
+    tag: "코스닥 상장 · 에너지 솔루션",
     description:
       "국내 대표 에너지 IT 기업으로, 수요반응(DR)·VPP·전기차 충전 등 에너지 데이터 플랫폼을 보유하고 있습니다. KCP·Smart-E와 데이터센터·환경 에너지 프로젝트에서 협력합니다.",
     focus: ["수요반응(DR) 자원 운영", "가상발전소(VPP) 플랫폼", "전기차 충전 인프라"],
@@ -120,7 +120,7 @@ export const partnerCompanies = [
   },
   {
     code: "지산그룹",
-    tag: "데이터센터·물류센터 개발",
+    tag: "데이터센터 · 물류센터 개발",
     description:
       "데이터센터 개발, 물류센터, 산업단지 개발 등을 수행하는 종합 개발 전문기업입니다. AI 데이터센터 구축 컨설팅 사업에서 협력합니다.",
     focus: ["데이터센터 개발", "물류센터 개발", "산업단지 개발"],

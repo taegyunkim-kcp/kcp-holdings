@@ -49,8 +49,9 @@ KCP Holdings (지주회사, Knowledge Consulting Platform)
 3. About — KCP = Knowledge Consulting Platform 의미, 지주회사 포지셔닝
 4. 사업영역(Business Domains) — 6개 카드, 각 카드에 주체(KCP/Smart-E/Smart-X) 라벨 표기
 5. 그룹사(Group Companies) — Smart-E, Smart-X 소개 카드
-6. 문의하기 (폼)
-7. Footer — 회사 정보 + 그룹사 정보 병기
+6. 협력사(Partners) — 외부 협력사 소개 카드 (그룹사와 동일한 카드 형태), 카드 클릭 시 회사 URL로 이동(URL 없는 경우 클릭 비활성화). 현재 등록: 그리드위즈(코스닥 상장, 에너지 IT), 가온글로벌(AI 인프라 솔루션), 삼성파워텍(수배전반·중전기기), 코오롱글로벌(종합 건설), 맥데이터(IT 인프라 모니터링), 지산그룹(데이터센터·물류센터 개발)
+7. 문의하기 (폼)
+8. Footer — 회사 정보 + 그룹사 정보 병기
 
 ## 기술 스택
 - **프레임워크**: Next.js (React) + TypeScript
@@ -60,7 +61,7 @@ KCP Holdings (지주회사, Knowledge Consulting Platform)
 
 ## 개발 원칙
 - 섹션 단위로 개발하고 매 단계 브라우저에서 확인 후 다음 단계로 진행
-- 컴포넌트는 재사용 가능하게 분리 (Hero, BusinessDomains, GroupCompanies, ContactForm 등)
+- 컴포넌트는 재사용 가능하게 분리 (Hero, BusinessDomains, GroupCompanies, PartnerCompanies, ContactForm 등)
 - 반응형 디자인 필수 (모바일/태블릿/데스크톱)
 - 코드는 TypeScript로 타입 안정성 확보
 - 사업영역/그룹사 데이터는 `lib/content.ts`에서 중앙 관리
