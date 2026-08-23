@@ -73,6 +73,7 @@ export const groupCompanies = [
     description:
       "IoT 전 영역을 다루는 자회사로, 스마트팜·스마트팩토리 IoT 단말부터 모니터링 시스템, 군부대 스마트폰 보관함 솔루션까지 개발·사업화를 추진합니다.",
     focus: ["스마트팜·스마트팩토리 IoT", "IoT 모니터링·제어 시스템", "군 스마트폰 보관함 솔루션"],
+    url: "https://www.gridwiz.com/",
   },
 ];
 
