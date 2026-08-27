@@ -34,6 +34,14 @@ export default function BusinessDomains() {
                   </li>
                 ))}
               </ul>
+              {s.title === "AI기반 환경 관리" && (
+                <a
+                  href="/solutions/ai-wep"
+                  className="mt-6 border-t border-border pt-5 text-sm font-medium text-signal transition-colors hover:text-text"
+                >
+                  AI-WEP 솔루션 자세히 보기 <span className="ml-2">↗</span>
+                </a>
+              )}
             </div>
           ))}
         </div>

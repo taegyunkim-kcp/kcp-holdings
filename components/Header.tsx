@@ -12,6 +12,9 @@ export default function Header() {
           <a href="#business" className="hover:text-text transition-colors">
             사업영역
           </a>
+          <a href="/solutions/ai-wep" className="hover:text-text transition-colors">
+            솔루션
+          </a>
           <a href="#group" className="hover:text-text transition-colors">
             그룹사
           </a>
