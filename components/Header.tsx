@@ -12,9 +12,27 @@ export default function Header() {
           <a href="#business" className="hover:text-text transition-colors">
             사업영역
           </a>
-          <a href="/solutions/ai-wep" className="hover:text-text transition-colors">
-            솔루션
-          </a>
+          <div className="group relative">
+            <a href="/solutions/ai-wep" className="hover:text-text transition-colors">
+              솔루션
+            </a>
+            <div className="invisible absolute left-0 top-full pt-3 opacity-0 transition-all group-hover:visible group-hover:opacity-100">
+              <div className="w-48 rounded-md border border-border bg-panel p-1.5 shadow-xl">
+                <a
+                  href="/solutions/ai-wep"
+                  className="block rounded px-3 py-2 text-sm text-muted transition-colors hover:bg-panel2 hover:text-text"
+                >
+                  AI-WEP
+                </a>
+                <a
+                  href="/solutions/smartvault"
+                  className="block rounded px-3 py-2 text-sm text-muted transition-colors hover:bg-panel2 hover:text-text"
+                >
+                  SmartVault
+                </a>
+              </div>
+            </div>
+          </div>
           <a href="#group" className="hover:text-text transition-colors">
             그룹사
           </a>

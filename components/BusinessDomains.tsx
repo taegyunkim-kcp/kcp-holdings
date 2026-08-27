@@ -42,6 +42,14 @@ export default function BusinessDomains() {
                   AI-WEP 솔루션 자세히 보기 <span className="ml-2">↗</span>
                 </a>
               )}
+              {s.title === "IoT 기반 군 스마트폰 보관함" && (
+                <a
+                  href="/solutions/smartvault"
+                  className="mt-6 border-t border-border pt-5 text-sm font-medium text-signal transition-colors hover:text-text"
+                >
+                  SmartVault 솔루션 자세히 보기 <span className="ml-2">↗</span>
+                </a>
+              )}
             </div>
           ))}
         </div>
